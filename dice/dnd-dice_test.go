@@ -1,4 +1,4 @@
-package dnd_dice
+package dice
 
 import (
 	"reflect"
